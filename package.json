@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
   "author": "Mia Ramos",
+  "description": "A project to learn back end development APIs from freeCodeCamp",
   "dependencies": {
     "express": "^4.14.0"
   },
